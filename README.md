@@ -1,1 +1,1 @@
-# trustee-bot
+bot.py
